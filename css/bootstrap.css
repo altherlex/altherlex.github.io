@@ -633,7 +633,7 @@ a:hover {
 .container-fluid {
   padding-right: 20px;
   padding-left: 20px;
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0 auto;
   *zoom: 1;
 }
