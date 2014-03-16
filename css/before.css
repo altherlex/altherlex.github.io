@@ -3,7 +3,8 @@
 
 .new-answer {
   border: 1px solid #ccc;
-  border-radius: 11px; }
+  border-radius: 11px;
+  padding-bottom: 14px; }
   .new-answer .agroup-answer {
     display: block;
     margin: 15px auto;
@@ -18,3 +19,27 @@
 
 .answer-feed {
   border-top: 1px solid #ccc; }
+
+.agroup-feed {
+  width: 95%;
+  margin: 0 auto; }
+
+.answer-row {
+  border-top: 1px solid #009999;
+  padding: 10px 0px 20px 0px; }
+  .answer-row .answer-row-content {
+    width: 95%;
+    margin: 0 auto; }
+  .answer-row .agroup-user-info .name {
+    font-weight: bold;
+    color: #009999; }
+  .answer-row .agroup-user-info .nick-name {
+    color: #92AAAA; }
+  .answer-row .agroup-answer-feed .feed-question {
+    font-weight: bold;
+    color: #009999; }
+  .answer-row .agroup-answer-feed .answer {
+    color: #92AAAA; }
+
+.answer-row:last-child {
+  border-bottom: 1px solid #009999; }
