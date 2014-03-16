@@ -1,0 +1,22 @@
+#question-answer{
+	height: 110px;
+}
+.new-answer{
+	border: 1px solid #ccc;
+	border-radius: 11px;
+	.agroup-answer{
+		display: block;
+		margin: 15px auto;
+		width: 95%;
+	}
+}
+.agrupa-btn{
+	width: 100%;
+	text-align: right;
+}
+.label-title{
+	color: #009999;
+}
+.answer-feed{
+	border-top: 1px solid #ccc;
+}
