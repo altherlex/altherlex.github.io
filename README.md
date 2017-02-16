@@ -1,4 +1,2 @@
-# Before I die
-
-
-[temporary demo](http://altherlex.github.io)
+# simple_static_clock
+Using css3, html, bootstrap and jquery
